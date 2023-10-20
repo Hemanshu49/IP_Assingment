@@ -1,0 +1,47 @@
+.student-home {
+    padding: 20px;
+  }
+  
+  h2 {
+    text-align: center;
+  }
+  
+  .test-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .test-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px 0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .test-info {
+    flex: 1;
+  }
+  
+  .test-title {
+    font-size: 18px;
+  }
+  
+  .test-date {
+    font-size: 14px;
+    color: #777;
+  }
+  
+  .test-button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  /* You can add more styles or adjust existing ones as needed */

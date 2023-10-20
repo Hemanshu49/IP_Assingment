@@ -1,0 +1,27 @@
+.contact-card {
+    margin-top: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    max-width: 400px; /* Adjust the width to your preference */
+    margin: 0 auto; /* Center the container horizontally */
+  }
+  
+  h2 {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  Form.Label {
+    font-size: 18px;
+  }
+  
+  Form.Control {
+    font-size: 16px;
+    margin-bottom: 15px;
+  }
+  
+  Button {
+    background-color: #007bff;
+    border: none;
+  }
+  
+  /* You can further adjust the container size and styles as needed */
