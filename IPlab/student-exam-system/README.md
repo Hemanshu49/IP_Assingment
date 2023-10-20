@@ -6,6 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### INCLUDE NODE MODULES
+`npm i` / `npm i node_modules`
+in both Server and student-exam-system folder 
+
 ### `npm start`
 
 Runs the app in the development mode.\
